@@ -3,7 +3,9 @@
  * LastEditors: GT<caogtaa@gmail.com>
  * LastEditTime: 2021-08-21 23:03:26
 */
-import { SplineTrailRenderer } from "../GraphicsDrawingBoard/Script/SplineTrailRenderer";
+// import { SplineTrailRenderer } from "../GraphicsDrawingBoard/Script/SplineTrailRenderer";
+
+import { SplineTrailRenderer } from "../../GraphicsDrawingBoard/Script/SplineTrailRenderer";
 
  
 
